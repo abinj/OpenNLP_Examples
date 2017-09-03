@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/opennlpexamples.iml" filepath="$PROJECT_DIR$/opennlpexamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentencesplitter/sentencesplitter.iml" filepath="$PROJECT_DIR$/sentencesplitter/sentencesplitter.iml" />
     </modules>
   </component>
 </project>
