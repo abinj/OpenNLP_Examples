@@ -1,11 +1,3 @@
-/tralcerapp/src/main/resources/assets/images/sharecards
-/synchronizer/synchronizerConfigLocalCopy.yaml
-/tralcerapp/tralcerappConfigLocalCopy.yaml
-/public_html
-/mailer/public_html
-/tralcerapp/src/main/resources/logs
-/teaser/src/main/resources/assets/documents
-/mailer/mailer
 # Created by .ignore support plugin (hsz.mobi)
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
@@ -28,15 +20,10 @@
 .idea/gradle.xml
 .idea/libraries
 
-/tralcerapp/src/main/resources/assets/images/profileimages
-/tralcerapp/src/main/resources/assets/images/thumbimages
 # Mongo Explorer plugin:
 #.idea/mongoSettings.xml
 
 ## File-based project format:
-/modules.iml
-/commons/target
-/mailer/target
 *.iws
 
 ## Plugin-specific files:
@@ -51,8 +38,6 @@
 target/
 
 # logs
-/mailer/src/main/resources/log/
-/synchronizer/src/main/resources/synchronizer.log
 
 
 # mpeltonen/sbt-idea plugin
@@ -68,8 +53,4 @@ crashlytics-build.properties
 fabric.properties
 
 /.idea/
-/tralcer-api-*.tar.gz
-/tralcerapp/src/main/resources/assets/documents/csv/
-!/tralcerapp/tralcerappConfigLocalCopy.yaml
-/tralcerapp/src/main/resources/assets/records/
 /opennlpexamples.iml
