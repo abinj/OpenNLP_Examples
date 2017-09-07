@@ -54,3 +54,5 @@ fabric.properties
 
 /.idea/
 /opennlpexamples.iml
+/.idea/workspace.xml
+!/.idea/workspace.xml

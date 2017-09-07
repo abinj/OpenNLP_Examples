@@ -11,7 +11,7 @@ import java.io.InputStream;
 public class MainApplication {
 
     public static void main(String[] args) throws InvalidFormatException, IOException {
-        String paragraph = "Hi. How are you? This is Mike.";
+        String paragraph = "Hello Everyone, Lets code for fun. Enjoy each and every moment.";
 
         //Always start with a model, a model is learned from training data
         //Give proper path to the "en-sent.bin" file
