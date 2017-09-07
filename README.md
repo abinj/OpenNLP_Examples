@@ -12,16 +12,17 @@
 6. Parser
 
 
-##Sentence Detector
+
+**Sentence Detector**
+
     Sentence detector is for detecting sentence boundaries.
-    
     The trained openNLP model "en-sent.bin" used for this.
     
     
-##Tokenizer
+**Tokenizer**
+
     Tokens are usually words which are separated by space, but there are exceptions. 
     For example, "isn't" gets split into "is" and "n't, since it is a a brief format of "is not".
-
     The trained openNLP model "en-token.bin" used for this operation. 
 
 

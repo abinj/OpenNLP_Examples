@@ -12,6 +12,7 @@ import java.io.InputStream;
 public class MainApplication {
 
     public static void main(String[] args) throws InvalidFormatException, IOException {
+        //Give proper path to the "en-token.bin" file
         InputStream is = new FileInputStream("en-token.bin");
         TokenizerModel model = new TokenizerModel(is);
         Tokenizer tokenizer = new TokenizerME(model);
