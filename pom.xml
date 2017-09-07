@@ -13,6 +13,8 @@
     <modules>
         <module>sentencesplitter</module>
         <module>tokenizer</module>
+        <module>namefinder</module>
+        <module>commons</module>
     </modules>
 
     <dependencies>

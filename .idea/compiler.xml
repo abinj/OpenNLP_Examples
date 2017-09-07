@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="commons" />
+        <module name="namefinder" />
         <module name="sentencesplitter" />
         <module name="tokenizer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="commons" target="1.5" />
+      <module name="namefinder" target="1.8" />
       <module name="opennlpexamples" target="1.5" />
       <module name="sentencesplitter" target="1.8" />
       <module name="tokenizer" target="1.8" />

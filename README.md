@@ -26,6 +26,9 @@
     The trained openNLP model "en-token.bin" used for this operation. 
 
 
+**Name Finder**
 
+    By its name, name finder just finds names in the context.
+    It accepts an array of strings, and find the names inside, So need to tokenize the input data first.
 
 NOTES : All the required trained models are included in this repo, only need to provide proper path to the files.
