@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>sentencesplitter</artifactId>
+    <artifactId>tokenizer</artifactId>
 
     <build>
         <plugins>
@@ -57,7 +57,7 @@
                                         implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.abinj.sentencesplitter.application.MainApplication</mainClass>
+                                    <mainClass>com.abinj.tokenizer.application.MainApplication</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
