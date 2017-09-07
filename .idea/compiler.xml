@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sentencesplitter" />
+        <module name="tokenizer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="opennlpexamples" target="1.8" />
+      <module name="opennlpexamples" target="1.5" />
       <module name="sentencesplitter" target="1.8" />
+      <module name="tokenizer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

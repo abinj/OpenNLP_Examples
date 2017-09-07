@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/opennlpexamples.iml" filepath="$PROJECT_DIR$/opennlpexamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/sentencesplitter/sentencesplitter.iml" filepath="$PROJECT_DIR$/sentencesplitter/sentencesplitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tokenizer/tokenizer.iml" filepath="$PROJECT_DIR$/tokenizer/tokenizer.iml" />
     </modules>
   </component>
 </project>
