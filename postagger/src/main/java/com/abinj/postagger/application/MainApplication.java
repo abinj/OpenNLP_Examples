@@ -13,8 +13,8 @@ import java.io.IOException;
 public class MainApplication {
 
     public static void main(String[] args) throws IOException, IllegalAccessException, InstantiationException {
-        POSModel loader = new POSModelLoader().load(new File("/home/abin/my_space/java_backend/nlp/opennlp/models/en-pos-maxent.bin"));
-        POSTaggerME tagger = new POSTaggerME(loader);
+        POSModel model = new POSModelLoader().load(new File("/home/abin/my_space/java_backend/nlp/opennlp/models/en-pos-maxent.bin"));
+        POSTaggerME tagger = new POSTaggerME(model);
         String input = "Welcome everyone lets together dive into Data science.";
 
         String[] sentences = OpenNLPUtils.getSentences(input);

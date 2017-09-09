@@ -16,6 +16,8 @@
         <module>namefinder</module>
         <module>commons</module>
         <module>postagger</module>
+        <module>chunker</module>
+        <module>Parser</module>
     </modules>
 
     <dependencies>

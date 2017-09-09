@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Parser/Parser.iml" filepath="$PROJECT_DIR$/Parser/Parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chunker/chunker.iml" filepath="$PROJECT_DIR$/chunker/chunker.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/namefinder/namefinder.iml" filepath="$PROJECT_DIR$/namefinder/namefinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/opennlpexamples.iml" filepath="$PROJECT_DIR$/opennlpexamples.iml" />
