@@ -15,6 +15,7 @@
         <module>tokenizer</module>
         <module>namefinder</module>
         <module>commons</module>
+        <module>postagger</module>
     </modules>
 
     <dependencies>

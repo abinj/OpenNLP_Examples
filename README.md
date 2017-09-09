@@ -31,4 +31,36 @@
     By its name, name finder just finds names in the context.
     It accepts an array of strings, and find the names inside, So need to tokenize the input data first.
 
+
+**POS Tagger**
+    
+    Part-of-speech tagging is the process of marking up a word in a text (corpus) as corresponding
+    to a particular part of speech such as noun, verb, adjective, etc.
+
+
+    POS Tags and their meanings:-
+    
+    CC: Coordinating conjuction                             PRP$: Prossessive pronoun
+    CD: Cardinal number                                     RB: Adverb
+    DT: Determiner                                          RBR: Adverb, Comparative
+    EX: Existential there                                   RBS: Adverb, Superlative
+    FW: Foreign word                                        RP: Particle
+    IN: preposition or subordinating conjunction            SYM: Symbol
+    JJ: Adjective                                           TO: to
+    JJR: Adjective, Comparative                             UH: Interjection
+    JJS: Adjective, Superlative                             VB:Verb, base form
+    LS: List item marker                                    VBD: Verb, Past tense
+    MD: Modal                                               VBG: Verb, gerund or past participle
+    NN: Noun, singular or mass                              VBN:Verb, past participle
+    NNS: NOun, plural                                       VBP: Verb, non3rd person singular present
+    NNP: Proper noun, singular                              VBZ: Verb, 3rd person singular present
+    NNPS: Proper noun, plural                               WDT: Whdeterminer
+    PDT: Predeterminer                                      WP: Whpronoun
+    POS: Possessive ending                                  WP$: Possessive whpronoun
+    PRP: Personal pronoun                                   WRB: Wh adverb
+    
+    
+
+
+
 NOTES : All the required trained models are included in this repo, only need to provide proper path to the files.
